@@ -47,6 +47,16 @@ const APPS = [
     badges: ["OSINT", "Phone Lookup", "Android + Web"],
     tags: ["osint", "intelligence", "phone lookup", "email lookup", "username", "domain", "investigation"],
     titleTag: "OSINT Tools"
+  },
+  {
+    id: "ai-gf",
+    name: "AI Girlfriend",
+    url: "https://ai-gf.examsaathi.site/",
+    logo: "https://i.ibb.co/vxK8nDYH/Screenshot-2026-06-25-001026.png",
+    description: "Apna AI companion choose karo — characters ke saath chat karo aur personal AI girlfriend experience enjoy karo.",
+    badges: ["AI", "Chat", "Companion"],
+    tags: ["ai girlfriend", "ai companion", "chat", "characters", "virtual", "ai chat"],
+    titleTag: "AI Companion"
   }
 ];
 

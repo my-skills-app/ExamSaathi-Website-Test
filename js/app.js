@@ -37,6 +37,16 @@ const APPS = [
     badges: ["Spiritual", "Audio", "Android"],
     tags: ["bhagavat gita", "gita", "spiritual", "audio", "episodes", "bhagavad", "hindu"],
     titleTag: "Official App"
+  },
+  {
+    id: "osint",
+    name: "OSINT Pro",
+    url: "https://osint.examsaathi.site/",
+    logo: "https://osint.examsaathi.site/static/landing/app-logo.jpg",
+    description: "Phone number lookup — naam, location aur details. Google login, search history aur Android + Web dono par.",
+    badges: ["OSINT", "Phone Lookup", "Android + Web"],
+    tags: ["osint", "intelligence", "phone lookup", "email lookup", "username", "domain", "investigation"],
+    titleTag: "OSINT Tools"
   }
 ];
 

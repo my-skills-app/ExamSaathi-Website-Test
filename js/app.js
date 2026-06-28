@@ -28,6 +28,16 @@ const APPS = [
     badges: ["Free", "Test Series", "Ranking"],
     tags: ["ranking", "test series", "score", "result", "review", "competitive"]
   },
+   {
+    id: "chillwithexamsaathi",
+    name: "Chillwith ExamSaathi",
+    url: "https://chilwith.examsaathi.site/",
+    logo: "https://i.ibb.co/Z6B0vCbS/bhagavat-gita-logo-jpg.jpg",
+    description: "Drama Shows episodes, full audio playback, watchlist aur spiritual learning — calm, focused app.",
+    badges: ["Spiritual", "Audio", "Android"],
+    tags: ["movies", "gita", "spiritual", "audio", "episodes", "drama", "hindu"],
+    titleTag: "Official App"
+  },
   {
     id: "bhagavatgita",
     name: "Bhagavat Gita",

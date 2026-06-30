@@ -32,7 +32,7 @@ const APPS = [
   {
     id: "ExamSaathi QuestionBank",
     name: "QuestionBank",
-    url: "https://testbook.examsaathi.site/",
+    url: "https://questionbank.examsaathi.site/",
     description: "Test series practice karo aur apna performance track karo — ranking aur result review.",
     badges: ["Free", "Test Series", "Ranking"],
     tags: ["ranking", "test series", "score", "result", "review", "competitive"]
